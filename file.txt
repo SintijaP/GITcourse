@@ -1,2 +1,3 @@
 Alex has a cat.
-Adding new, experimental functionality.
+
+Adding experimental functionality,  another changes in this file.
